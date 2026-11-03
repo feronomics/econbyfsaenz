@@ -45,7 +45,9 @@ Herrera, O., Sáenz, F., Ipiña, E., & Jurado, J. (2024). *Landívar Economics*,
 
 February 2026–present · Guatemala City
 
-#### Main project | PI: Karen Macours
+#### Main project
+
+PI: Karen Macours
 
 **Economic, Cultural and Taste-based Constraints to the Scaling of Climate-resilient Biofortified Maize among Diverse Smallholder Populations in Guatemala**
 
@@ -57,17 +59,23 @@ February 2026–present · Guatemala City
 
 #### Cross-project Support to the J-PAL LAC Research Vertical
 
-**Early childhood development: “Acompañame a Crecer” | PI: Pamela Jervis**
+**Early childhood development: “Acompañame a Crecer”**
+
+PI: Pamela Jervis
 
 - Worked on projections of the population aged 0–4 using Guatemala's latest available census; developed clustering rules aligned with the Ministry of Education's implementation plan.
 - Designed geographic buffers to reduce control-group contamination; estimated intraclass correlation benchmarks and conducted power calculations for a pilot evaluation of the national ECD program.
 
-**Women's empowerment: “Beca Artesano” | PI: Patricio Dalton**
+**Women's empowerment: “Beca Artesano”**
+
+PI: Patricio Dalton
 
 - Monitored endline fieldwork and coordinated three focus groups with the Ministry of Social Development, the survey firm, and local authorities.
 - Supported reports and presentations for Ministry of Social Development teams.
 
-**Weather-triggered automatic cash transfers: “Bono Emergencia” | PI: Esther Duflo**
+**Weather-triggered automatic cash transfers: “Bono Emergencia”**
+
+PI: Esther Duflo
 
 - Supported the drafting of funding proposals for competitive international research grants.
 
