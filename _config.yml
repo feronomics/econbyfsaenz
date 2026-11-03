@@ -23,7 +23,7 @@ repository               : "feronomics/econbyfsaenz"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "fernando-profile.jpg"
   name             : "Fernando Saenz Aguilar"
   pronouns         : # example: "she/her"
   bio              : "Development economics · Human capital · Nutrition"

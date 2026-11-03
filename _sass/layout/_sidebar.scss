@@ -164,6 +164,30 @@
   }
 }
 
+// Frame the original portrait from the chest up without altering the photograph.
+.profile-photo-frame {
+  display: block;
+  position: relative;
+  width: 100%;
+  max-width: 175px;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 50%;
+
+  img.author__avatar,
+  img {
+    position: absolute;
+    width: 180%;
+    max-width: none;
+    height: auto;
+    left: -40%;
+    top: -48%;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
