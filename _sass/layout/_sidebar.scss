@@ -168,11 +168,18 @@
 .profile-photo-frame {
   display: block;
   position: relative;
-  width: 100%;
-  max-width: 175px;
-  aspect-ratio: 1;
+  width: 56px;
+  height: 56px;
+  min-width: 56px;
+  flex-shrink: 0;
   overflow: hidden;
   border-radius: 50%;
+
+  @include breakpoint($large) {
+    width: 175px;
+    height: 175px;
+    min-width: 175px;
+  }
 
   img.author__avatar,
   img {
